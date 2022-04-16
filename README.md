@@ -7,7 +7,7 @@
 * [Contact](#contact)
 
 ## About The Project
-This project simply aims to make a minefield game with interface using JComponents and JavaSwing.
+This project simply aims to make a minefield game with interface by using JComponents and JavaSwing.
 
 ## Game Screen
 ![alt text](https://github.com/enes-sahinn/Minefield-Game/blob/master/game_screen.png)
